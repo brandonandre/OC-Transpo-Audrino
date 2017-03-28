@@ -4,8 +4,7 @@ Using Audrino with an ESP8266WiFi sensor, we can access the OC Transpo API to ma
 # Board Requirements
 For this project I used the following board and shelid;
 
-| Name          | Website          
-| ------------- |:-------------:| 
-| col 3 is      | right-aligned |
-| col 2 is      | centered      | 
-| zebra stripes | are neat      |
+| Name                   | Website                                       |
+| -----------------------|:---------------------------------------------:| 
+| Wemos D1 Mini Pro      | https://www.wemos.cc/product/d1-mini-pro.html |
+| Wemos OLED Shield      | https://www.wemos.cc/product/oled-shield.html | 
