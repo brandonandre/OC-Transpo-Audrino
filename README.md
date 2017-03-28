@@ -1,4 +1,4 @@
-# OC-Transpo-Audrino
+# OC Transpo Audrino
 Using Audrino with an ESP8266WiFi sensor, we can access the OC Transpo API to make a bus tracker.
 
 # Board Requirements
@@ -22,7 +22,7 @@ There are two main ways to use this board. If you perfer to just use a light to 
 | Blinking Light      | Wait for the next bus. Bus at the stop.|
 
 ## Reading OLED display
-Once it connects to the internet and retrives the OC Transpo API you will be shown a display
+Once it connects to the internet and retrives the OC Transpo API you will be shown on the display with a number.
 
 # Building
 1. Change the API App ID and Secret code. 
@@ -32,6 +32,7 @@ Once it connects to the internet and retrives the OC Transpo API you will be sho
 5. Change the wait time variable.
 6. Change WiFi Host
 7. Change WiFi Password
+8. Change the bus name.
 
 # Future Updates
 * Animations between screen
